@@ -14,8 +14,9 @@ its show all accounts details like :
   
 
 ```
-git clone 
+git clone https://github.com/sandave11/fb-clone.git
 cd fb-clone
+python dd_v6.py
 ```
 
 
