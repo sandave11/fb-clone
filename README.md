@@ -18,14 +18,14 @@ git clone https://github.com/sandave11/fb-clone.git
 cd fb-clone
 python dd_v6.py
 ```
-1-Put telegram token & id ( if u dont have , then skip by pressing enter )
-2-Put fresh cookies
-3-select whatever u want from IDZ / CRACK FILE
+1. Put telegram token & id ( if u dont have , then skip by pressing enter )
+2. Put fresh cookies
+3. select whatever u want from IDZ / CRACK FILE
 
 
 ________
-< this tool is paid , its already activated for 7 days as trial >
-if u want to buy a private key , contact me on telegram : 
-channel : @sandaveX
-user : @ddfmoto0
+* < this tool is paid , its already activated for 7 days as trial >
+* if u want to buy a private key , contact me on telegram : 
+* channel : @sandaveX
+* user : @ddfmoto0
 ________
