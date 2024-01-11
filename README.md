@@ -14,7 +14,13 @@ its show all accounts details like :
   
 
 ```
+apt update
+apt upgrade
 git clone https://github.com/sandave11/fb-clone.git
+pip install bs4
+pip install rich
+pip install licensing
+pip install requests
 cd fb-clone
 python dd_v6.py
 ```
