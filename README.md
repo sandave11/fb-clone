@@ -18,9 +18,9 @@ git clone https://github.com/sandave11/fb-clone.git
 cd fb-clone
 python dd_v6.py
 ```
-1- Put telegram token & id ( if u dont have , then skip by pressing enter ) \n
-2- Put fresh cookies
-3- select whatever u want from IDZ / CRACK FILE
+1-Put telegram token & id ( if u dont have , then skip by pressing enter )
+2-Put fresh cookies
+3-select whatever u want from IDZ / CRACK FILE
 
 
 ________
