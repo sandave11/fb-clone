@@ -9,6 +9,7 @@
 ```
 apt update
 apt upgrade
+pkg install git
 git clone https://github.com/sandave11/fb-clone.git
 pip install bs4
 pip install rich
