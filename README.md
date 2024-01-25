@@ -1,6 +1,5 @@
 
 ## Facebook id file crack 
-With 9 password methods
 - Related apps (linked apps & sites )
 - and its send OK accounts to your telegram bot ( you can skip it if u dont have a bot )
   ________
