@@ -1,14 +1,8 @@
 
-## Facebook public id crack , File crack 
+## Facebook id file crack 
 With 9 password methods
-its show all accounts details like : 
 - Related apps (linked apps & sites )
-- Linked phone number
-- Linked email
-- Date of birth
-- Date of account creation
-  
- and its send OK & CP accounts to your telegram bot ( you can skip it if u dont have a bot )
+- and its send OK accounts to your telegram bot ( you can skip it if u dont have a bot )
   ________
   how to use :
   
@@ -22,12 +16,8 @@ pip install rich
 pip install licensing
 pip install requests
 cd fb-clone
-python dd_v6.py
+python dd_v9_9.py
 ```
-1. Put telegram token & id ( if u dont have , then skip by pressing enter )
-2. Put fresh cookies
-3. select whatever u want from IDZ / CRACK FILE
-
 
 ________
 * < this tool is paid , its already activated for 7 days as trial >
